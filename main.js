@@ -1,5 +1,4 @@
-// let image = `./img/img.jpg`;
-let image = `<img src="./img/img.jpg" alt=""></img>`
+
 
 const app = new Vue({
     el: "#app",
