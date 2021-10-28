@@ -1,4 +1,4 @@
-let image = "./img/img.jpg";
+let image = `./img/img.jpg`;
 
 
 const app = new Vue({
