@@ -13,6 +13,12 @@
         <div>
             <img v-bind:src="picture" alt="">
         </div>
+        <div>
+            <div>
+                <input v-model=userPic type="text" placeholder="copy your pic link here to see it displayed" style="width: 250px;">
+            </div>
+            <img v-bind:src="userPic" alt="">
+        </div>
             
     </div>
 
